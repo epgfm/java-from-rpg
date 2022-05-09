@@ -1,0 +1,52 @@
+     A*%%TS  SD  20220509  145215  ETIENNE     REL-V7R3M0  5770-WDS
+     A*%%EC
+     A                                      DSPSIZ(24 80 *DS3)
+     A          R A1
+     A*%%TS  SD  20220509  145215  ETIENNE     REL-V7R3M0  5770-WDS
+     A                                      CF03(03)
+     A                                  1 32'Java Objects Demo'
+     A                                      COLOR(WHT)
+     A                                  2  4'Type String:'
+     A                                      COLOR(BLU)
+     A            WOSEF1        59A  O  2 18
+     A                                  3  4'startsWith(ceci):'
+     A                                      COLOR(BLU)
+     A            WOSEF2         3A  O  3 23
+     A                                  4  4's/Bob/Alice/g'
+     A                                      COLOR(BLU)
+     A            WOSEF3        58A  O  4 19
+     A                                  6  4'Type'
+     A                                      COLOR(BLU)
+     A                                  6  9'List:'
+     A                                      COLOR(BLU)
+     A            WOSEF4        61A  O  6 16
+     A                                  7  4'pop:'
+     A                                      COLOR(BLU)
+     A            WOSEF5        23A  O  7 10
+     A                                  8  4'Apres Pop:'
+     A                                      COLOR(BLU)
+     A            WOSEF6        61A  O  8 16
+     A                                 10  4'Type ArrayList:'
+     A                                      COLOR(BLU)
+     A            WOSEF7        55A  O 10 22
+     A                                 11  4'Ajout en 1:'
+     A                                      COLOR(BLU)
+     A            WOSEF8        60A  O 11 17
+     A                                 12  4'Ajout en 1:'
+     A                                      COLOR(BLU)
+     A            WOSEF9        60A  O 12 17
+     A                                 14  4'Type HashMap:'
+     A                                      COLOR(BLU)
+     A            WOSEF10       58A  O 14 19
+     A                                 15  4'Contient 4:'
+     A                                      COLOR(BLU)
+     A            WOSEF11        5A  O 15 18
+     A                                 16  4'Contient 6:'
+     A                                      COLOR(BLU)
+     A            WOSEF12        5A  O 16 18
+     A                                 17  4'Valeur de clef 4:'
+     A                                      COLOR(BLU)
+     A            WOSEF13       53A  O 17 23
+     A                                 19  5' '
+     A                                 19  4'F3=Exit'
+     A                                      COLOR(BLU) 
